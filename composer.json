@@ -1,0 +1,17 @@
+{
+    "name": "suendri-uinsu/pbwl-project7",
+    "description": "Praktikum Project 7 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suendri",
+            "email": "suendri@uinsu.ac.id"
+        }
+    ],
+    "require": {}
+}
